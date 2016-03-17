@@ -1,0 +1,13 @@
+{
+  "name": "beli-web",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
